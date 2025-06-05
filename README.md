@@ -73,10 +73,3 @@ Armazena informações básicas dos clientes cadastrados.
 ## 🎯 Objetivo
 
 Este projeto foi criado com o objetivo de **consolidar conhecimentos em SQL** e servir como **portfólio de estudos em banco de dados relacional**.
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por **Renan**  
-Estudante de Ciência da Computação e apaixonado por tecnologia, bancos de dados e desenvolvimento backend.
